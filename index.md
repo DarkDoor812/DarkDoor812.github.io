@@ -1,3 +1,8 @@
+---
+permalink: /index.html
+---
+
+
 ## Changing U.S. Politics pushed Historians toward Quantitative History
 According to historian of the U.S. South Clement Eaton, the rise of nonelite history in the United States, which began in earnest
 
@@ -41,4 +46,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-permalink: /index.html
