@@ -1,5 +1,5 @@
 # Hello World
-## I Speak
+## I Think
 ### Therfore I am
 ## Welcome to GitHub Pages
 
